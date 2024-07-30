@@ -3,6 +3,7 @@ public class Pessoa {
     private int idade;
     private String endereco;
     private String cpf;
+    
 
 
 
@@ -35,6 +36,10 @@ public class Pessoa {
     public void setEndereco(String endereco) {
         this.endereco = endereco;
     }
+
+
+
+
    
     
 }
